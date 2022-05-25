@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_hight">88dp</dimen>
+    <dimen name="image_hight">88dp</dimen>
+    <dimen name="image_width">88dp</dimen>
+    <dimen name="element_hight">88dp</dimen>
+    <dimen name="spacing_small">8dp</dimen>
+    <dimen name="spacing_medium">16dp</dimen>
+    <dimen name="spacing_large">24dp</dimen>
+    <dimen name="spacing_xlarge">32dp</dimen>
+    <dimen name="text_size_normal">18sp</dimen>
+</resources>

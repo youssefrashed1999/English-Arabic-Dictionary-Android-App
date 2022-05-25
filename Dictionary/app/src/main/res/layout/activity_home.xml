@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/main_activity_background">
+
+    <TextView
+        android:id="@+id/text_view_numbers"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/button_hight"
+        android:background="@color/numbers_background"
+        android:text="@string/button_numbers"
+        android:gravity="start|center"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_size_normal"
+        android:paddingStart="@dimen/spacing_medium"
+        android:textStyle="bold"
+        />
+    <TextView
+        android:id="@+id/text_view_family_members"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/button_hight"
+        android:background="@color/family_members_background"
+        android:text="@string/button_family_members"
+        android:gravity="start|center"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_size_normal"
+        android:paddingStart="@dimen/spacing_medium"
+        android:textStyle="bold"
+        />
+    <TextView
+        android:id="@+id/text_view_colors"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/button_hight"
+        android:background="@color/colors_background"
+        android:text="@string/button_colors"
+        android:gravity="start|center"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_size_normal"
+        android:paddingStart="@dimen/spacing_medium"
+        android:textStyle="bold"
+        />
+    <TextView
+        android:id="@+id/text_view_phrases"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/button_hight"
+        android:background="@color/phrases_background"
+        android:text="@string/button_phrases"
+        android:gravity="start|center"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_size_normal"
+        android:paddingStart="@dimen/spacing_medium"
+        android:textStyle="bold"
+        />
+
+
+</LinearLayout>
